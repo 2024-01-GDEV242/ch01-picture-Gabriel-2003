@@ -80,8 +80,8 @@ public class Picture
     
             me.changeColor("yellow");
             me.makeVisible();
-            me.moveHorizontal(-100);
-            me.moveVertical(100);
+            me.moveHorizontal(-20);
+            me.moveVertical(80);
             
             
 
