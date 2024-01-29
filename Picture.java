@@ -96,10 +96,11 @@ public class Picture
     {
         sun2.changeColor("black");
         sun3.changeColor("black");
+        roof.changeColor("black");
         wall.changeColor("white");
         window.changeColor("white");
-        roof.changeColor("black");
         sun.changeColor("black");
+        me.changeColor("white");
     }
 
     /**
@@ -107,11 +108,12 @@ public class Picture
      */
     public void setColor()
     {
-        wall.changeColor("red");
-        window.changeColor("black");
         roof.changeColor("red");
         sun.changeColor("black");
         sun2.changeColor("black");
         sun3.changeColor("black");
+        wall.changeColor("white");
+        window.changeColor("white");
+        me.changeColor("yellow");
     }
 }
